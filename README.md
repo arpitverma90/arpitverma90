@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpit+Verma!;">
 </h1>
 
-<h3 align="center">A Passionate Programmer from India </h3>
+<h3 align="center">A Passionate Data Engineer from India </h3>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -19,7 +19,7 @@
 
 - 👋 Hi, I’m Arpit Verma
 - 👀 I’m interested in Cycling, Running and Reading Books
-- 🔭 I’m currently working on improving my skills in *Data Science* with Java and SpringBoot.
+- 🔭 I’m currently working on improving my skills in *Data Science* with Excel, SQL, PowerBI and Python
 - 🌱 I’m also learning *Data Science* to become a well-rounded data engineer
 - 💬 Ask me about * Excel, SQL, and Python*.
 
@@ -30,10 +30,10 @@
 </h3>
 
 ### 🛠 My Tech Stack
-- *Languages:* Java, JavaScript, HTML, CSS
-- *Frameworks:* Spring, SpringBoot
-- *Databases:* MySQL
-- *Tools:* Git, GitHub, Visual Studio Code, IntelliJ 
+- *Languages:* Python
+- *Frameworks:* 
+- *Databases:* SQL
+- *Tools:* Git, GitHub, 
 
  <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
