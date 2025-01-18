@@ -1,73 +1,122 @@
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+def generate_detailed_github_intro(
+    name,
+    title,
+    bio,
+    skills,
+    tools,
+    projects,
+    contributions,
+    learning_goals,
+    contact_info,
+    github_url,
+):
+    intro = f"""
+# 👋 Hi, I'm {name}!
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpit+Verma!;">
-</h1>
+Welcome to my GitHub profile! I'm a passionate **{title}** dedicated to exploring innovative solutions, building impactful projects, and contributing to open-source communities.
 
-<h3 align="center">A Passionate Data Engineer from India </h3>
+---
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+## 👨‍💻 About Me
 
-<div align="center">
-  
- ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> About Me
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+{bio}
 
-- 👋 Hi, I’m Arpit Verma
-- 👀 I’m interested in Cycling, Running and Reading Books
-- 🔭 I’m currently working on improving my skills in *Data Science* with Excel, SQL, PowerBI and Python
-- 🌱 I’m also learning *Data Science* to become a well-rounded data engineer
-- 💬 Ask me about * Excel, SQL, and Python*.
+---
 
- </div>
+## 🛠️ Skills and Tools
 
- <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+### 💻 Technical Skills:
+{", ".join(skills)}
 
-### 🛠 My Tech Stack
-- *Languages:* Python
-- *Frameworks:* 
-- *Databases:* SQL
-- *Tools:* Git, GitHub, 
+### 🧰 Tools and Technologies:
+{", ".join(tools)}
 
- <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+---
 
-### ⚡ My Projects
-- [Spring Learning Project](https://github.com/Kuwarsaab/Learn-Spring-Framework) - A Java Spring Project for learning and understanding the framework.
-- [Wrapkart](https://github.com/Kuwarsaab/WrapKart-The-Perfect-drip) - A full-stack e-commerce site built with HTML,CSS,JS and PHP.
-- [Chat Application](https://github.com/Kuwarsaab/Chat-App) - A cross-platform chat app built using Java and Socket Programming.
+## 🌟 Portfolio Highlights
 
- <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+Here are a few notable projects I've worked on:
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/arpit-verma-96510524b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href=mailto:"vermaarp2361@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-</div>
+{projects}
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+---
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitverma90&show_icons=true&theme=radical" alt="Arpit Verma's GitHub stats" style="width: 49%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitverma90&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;"/>
-</div>
+## 🤝 Open Source Contributions
 
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
+{contributions}
 
-<h3 align="center">Let's connect and build something amazing together!</h3>
+---
+
+## 🚀 Currently Learning
+
+{learning_goals}
+
+---
+
+## 📬 Let's Connect
+
+- 📂 GitHub: [{name}]({github_url})
+- 📧 Email: {contact_info}
+- 💼 LinkedIn: [My LinkedIn](#) (replace this link with yours)
+
+Feel free to explore my repositories, star the ones you like, and let’s collaborate on exciting projects! ✨
+"""
+    return intro
+
+
+# Example inputs
+name = "John Doe"
+title = "Data Scientist | Machine Learning Engineer | Open Source Enthusiast"
+bio = (
+    "I specialize in using data-driven approaches to solve real-world problems. "
+    "With a strong background in Python, machine learning, and data visualization, I enjoy creating scalable solutions."
+)
+skills = [
+    "Python",
+    "R",
+    "Machine Learning",
+    "Deep Learning",
+    "Data Analysis",
+    "SQL",
+]
+tools = [
+    "Jupyter Notebook",
+    "TensorFlow",
+    "Scikit-learn",
+    "Power BI",
+    "Tableau",
+    "Git",
+]
+projects = """
+- **Customer Churn Prediction**: Developed a machine learning model to predict customer retention, achieving 95% accuracy.  
+- **Stock Price Forecasting**: Built a time-series analysis pipeline to forecast stock trends with ARIMA models.  
+- **Sentiment Analysis**: Analyzed product reviews using NLP techniques to extract actionable insights.  
+"""
+contributions = """
+- Contributed to the [Scikit-learn](https://github.com/scikit-learn/scikit-learn) repository by improving documentation.  
+- Submitted bug fixes and feature enhancements to popular Python libraries like Pandas and NumPy.  
+- Actively participate in Hacktoberfest, contributing to beginner-friendly repositories.  
+"""
+learning_goals = (
+    "Currently exploring advanced topics in reinforcement learning, "
+    "MLOps best practices, and deploying scalable AI solutions on cloud platforms."
+)
+contact_info = "john.doe@example.com"
+github_url = "https://github.com/johndoe"
+
+# Generate and print the detailed intro
+print(
+    generate_detailed_github_intro(
+        name,
+        title,
+        bio,
+        skills,
+        tools,
+        projects,
+        contributions,
+        learning_goals,
+        contact_info,
+        github_url,
+    )
+)
+
