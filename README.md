@@ -21,7 +21,7 @@
 - 👀 I’m interested in Cycling, Running and Reading Books
 - 🔭 I’m currently working on improving my skills in Data Science with Excel, SQL, PowerBI and Python
 - 🌱 I’m also learning Data Science to become a well-rounded data engineer
-- 💬 Ask me about * Excel, SQL, and Python*.
+- 💬 Ask me about * Excel, SQL,Power BI and Python*.
 
  </div>
 
