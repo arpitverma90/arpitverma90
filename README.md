@@ -40,9 +40,8 @@
 </h3>
 
 ### ⚡ My Projects
-- [Spring Learning Project](https://github.com/Kuwarsaab/Learn-Spring-Framework) - A Java Spring Project for learning and understanding the framework.
-- [Wrapkart](https://github.com/Kuwarsaab/WrapKart-The-Perfect-drip) - A full-stack e-commerce site built with HTML,CSS,JS and PHP.
-- [Chat Application](https://github.com/Kuwarsaab/Chat-App) - A cross-platform chat app built using Java and Socket Programming.
+- [Dynamic Retail Dashboard](https://github.com/arpitverma90/Dynamic-Retail-Dashboard) - Dynamic Retail Dashboard: An interactive analytics tool for tracking sales, inventory, and customer insights in real time.
+
 
  <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
