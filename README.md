@@ -1,11 +1,13 @@
 <h3 align="center">
 <div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-  <!-- Gradient Style Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FF5733&vCenter=true&multiline=true&width=500&lines=🚀+Aspiring+Data+Analyst;🔍+SQL+%7C+Power+BI+%7C+Python;💡+Machine+Learning+Explorer;📊+Business+Intelligence+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00D2FF&center=true&vCenter=true&width=500&height=70&lines=✨+Data+Alchemist;📊+SQL+Whisperer;🤖+ML+Explorer;📈+PowerBI+Artist;🐍+Python+Developer" alt="Typing SVG">
 
-  <!-- Stylish Glitch Effect GIF -->
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif" width="450" />
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
+
+  ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
