@@ -1,14 +1,14 @@
 <h3 align="center">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
+
+  <!-- Gradient Style Typing SVG -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=FF5733&vCenter=true&multiline=true&width=500&lines=🚀+Aspiring+Data+Analyst;🔍+SQL+%7C+Power+BI+%7C+Python;💡+Machine+Learning+Explorer;📊+Business+Intelligence+Learner" alt="Typing SVG" />
+
+  <!-- Stylish Glitch Effect GIF -->
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif" width="450" />
+
 </div>
 
-
-<div align="center">
-  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="giphy2" width="500">
-</div>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-</h3>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpit+Verma!;">
