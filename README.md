@@ -3,7 +3,7 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=00D2FF&center=true&vCenter=true&width=500&height=70&lines=✨+Data+Alchemist;📊+SQL+Whisperer;🤖+ML+Explorer;📈+PowerBI+Artist;🐍+Python+Developer" alt="Typing SVG">
+
 
   <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
 
