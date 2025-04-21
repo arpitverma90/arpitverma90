@@ -1,5 +1,13 @@
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
+</div>
+
+
+<div align="center">
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="giphy2" width="500">
+</div>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 </h3>
 
 <h1 align="center">
