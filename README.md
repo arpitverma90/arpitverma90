@@ -1,176 +1,84 @@
-# Hi there 👋 I'm Abhay
+<h3 align="center">
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-<!-- Hero: Animated colorful SVG -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
+</div>
 
-<svg width="100%" height="220" viewBox="0 0 1200 220" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0%" stop-color="#ff6b6b">
-        <animate attributeName="offset" values="0%;15%;0%" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#fbc531">
-        <animate attributeName="offset" values="50%;65%;50%" dur="6s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#4cd137">
-        <animate attributeName="offset" values="100%;85%;100%" dur="6s" repeatCount="indefinite" />
-      </stop>
-    </linearGradient>
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
 
-```
-<filter id="f1" x="-20%" y="-20%" width="140%" height="140%">
-  <feGaussianBlur stdDeviation="20" result="blur" />
-  <feBlend in="SourceGraphic" in2="blur" mode="normal"/>
-</filter>
-```
+  ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-  </defs>
+</div>
 
-  <!-- Background blobs -->
 
-  <g filter="url(#f1)">
-    <circle cx="150" cy="80" r="90" fill="url(#g1)">
-      <animate attributeName="cx" dur="8s" values="120;180;120" repeatCount="indefinite"/>
-      <animate attributeName="cy" dur="10s" values="70;110;70" repeatCount="indefinite"/>
-    </circle>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpit+Verma!;">
+</h1>
 
-```
-<circle cx="1040" cy="120" r="120" fill="#7f8fa6" opacity="0.18">
-  <animate attributeName="cx" dur="12s" values="980;1100;980" repeatCount="indefinite"/>
-</circle>
+<h3 align="center">A Passionate Data Engineer from India </h3>
 
-<ellipse cx="600" cy="30" rx="240" ry="40" fill="#6a89cc" opacity="0.12">
-  <animate attributeName="cx" dur="9s" values="580;640;580" repeatCount="indefinite"/>
-</ellipse>
-```
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-  </g>
+<div align="center">
+  
+ ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-  <!-- Text -->
+- 👋 Hi, I’m Arpit Verma
+- 👀 I’m interested in Cycling, Running and Reading Books
+- 🔭 I’m currently working on improving my skills in Data Science with Excel, SQL, PowerBI and Python
+- 🌱 I’m also learning Data Science to become a well-rounded data engineer
+- 💬 Ask me about * Excel, SQL,Power BI and Python*.
 
-  <g>
-    <text x="40" y="80" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="38" font-weight="700" fill="#0f172a">Hey, I'm <tspan fill="#ff6b6b">Abhay</tspan></text>
-    <text x="40" y="120" font-family="Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="18" fill="#0f172a" opacity="0.85">Data analyst • Power BI enthusiast • Problem solver</text>
-  </g>
+ </div>
 
-  <!-- Floating icons (simple geometric) -->
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-  <g opacity="0.95">
-    <rect x="980" y="20" width="30" height="30" rx="6" fill="#ff4757">
-      <animateTransform attributeName="transform" attributeType="XML" type="translate" dur="5s" values="0 0; -10 8; 0 0" repeatCount="indefinite"/>
-    </rect>
+### 🛠 My Tech Stack
+- Languages: Python
+- Frameworks: 
+- Databases: SQL
+- Tools: Git, GitHub, 
 
-```
-<circle cx="930" cy="60" r="14" fill="#1e90ff">
-  <animate attributeName="cy" dur="4s" values="60;40;60" repeatCount="indefinite"/>
-</circle>
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<polygon points="880,30 900,60 860,60" fill="#2ed573" opacity="0.95">
-  <animateTransform attributeName="transform" attributeType="XML" type="rotate" dur="6s" values="0 880 45; 15 880 45; 0 880 45" repeatCount="indefinite"/>
-</polygon>
-```
+### ⚡ My Projects
+- [Dynamic Retail Dashboard](https://github.com/arpitverma90/Dynamic-Retail-Dashboard) - Dynamic Retail Dashboard: An interactive analytics tool for tracking sales, inventory, and customer insights in real time.
 
-  </g>
-</svg>
 
----
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-## ✨ Quick Highlights
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/arpit-verma-96510524b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href=mailto:"vermaarp2361@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
-* 🎯 Passionate about turning messy data into clear insights.
-* 📊 Power BI, Excel, SQL, Python (pandas) — comfortable across the stack.
-* 🚀 Building visuals, dashboards, and automation to speed decisions.
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
----
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitverma90&show_icons=true&theme=radical" alt="Arpit Verma's GitHub stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitverma90&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;"/>
+</div>
 
-## 💼 Skills & Tools
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-<details>
-<summary>Click to expand — colorful SVG skill bars</summary>
-
-<!-- Animated skill bars built with inline SVG (works in GitHub README) -->
-
-<svg width="100%" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMinYMin">
-  <style>
-    .label { font: 14px/1.2 "Segoe UI", Roboto, Arial; fill: #0f172a }
-    .percent { font: 12px/1.2 "Segoe UI", Roboto, Arial; fill: #0f172a }
-  </style>
-
-  <!-- Progress background -->
-
-  <rect x="20" y="20" width="760" height="28" rx="14" fill="#e6e9ef" />
-  <rect x="20" y="64" width="760" height="28" rx="14" fill="#e6e9ef" />
-  <rect x="20" y="108" width="760" height="28" rx="14" fill="#e6e9ef" />
-
-  <!-- Animated fills -->
-
-  <linearGradient id="p1" x1="0" x2="1">
-    <stop offset="0%" stop-color="#ff6b6b" />
-    <stop offset="100%" stop-color="#fbc531" />
-  </linearGradient>
-  <rect x="20" y="20" width="0" height="28" rx="14" fill="url(#p1)">
-    <animate attributeName="width" from="0" to="520" dur="1.6s" begin="0.2s" fill="freeze" />
-  </rect>
-
-  <linearGradient id="p2" x1="0" x2="1">
-    <stop offset="0%" stop-color="#7bed9f" />
-    <stop offset="100%" stop-color="#1e90ff" />
-  </linearGradient>
-  <rect x="20" y="64" width="0" height="28" rx="14" fill="url(#p2)">
-    <animate attributeName="width" from="0" to="640" dur="1.8s" begin="0.5s" fill="freeze" />
-  </rect>
-
-  <linearGradient id="p3" x1="0" x2="1">
-    <stop offset="0%" stop-color="#9b59b6" />
-    <stop offset="100%" stop-color="#e84393" />
-  </linearGradient>
-  <rect x="20" y="108" width="0" height="28" rx="14" fill="url(#p3)">
-    <animate attributeName="width" from="0" to="600" dur="1.7s" begin="0.8s" fill="freeze" />
-  </rect>
-
-  <!-- Labels -->
-
-<text x="20" y="18" class="label">Power BI</text> <text x="740" y="38" class="percent">65%</text>
-
-<text x="20" y="62" class="label">SQL / Data Modeling</text> <text x="740" y="82" class="percent">80%</text>
-
-<text x="20" y="106" class="label">Python (pandas)</text> <text x="740" y="126" class="percent">75%</text> </svg>
-
-</details>
-
----
-
-## 📌 GitHub Stats
-
-<!-- Example: GitHub readme stats cards. Replace `your-username` with your GitHub username. -->
-
-[![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username\&show_icons=true\&theme=transparent\&count_private=true)](https://github.com/your-username)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username\&layout=compact\&theme=transparent)](https://github.com/your-username)
-
----
-
-## 📫 Connect with me
-
-* Twitter: [@yourhandle](https://twitter.com/yourhandle)
-* LinkedIn: [your name](https://www.linkedin.com/in/your-linkedin)
-* Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-## ✅ How to use
-
-1. Click **Edit** on your GitHub profile repository's `README.md` (the one named same as your username).
-2. Replace `your-username`, `yourhandle`, `your-linkedin`, and `your.email@example.com` with your values.
-3. Commit — the animated header and SVGs will render directly on your profile README.
-
----
-
-> Want it more customized? I can:
-
-* change the color palette to match your brand
-* add an animated job title carousel
-* include dynamic contribution art or a custom SVG avatar
-
----
-
-*Made with ❤️ — copy this into your `README.md` and tweak the numbers & links.*
+<h3 align="center">Let's connect and build something amazing together!</h3> like this give some things else
