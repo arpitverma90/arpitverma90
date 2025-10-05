@@ -1,42 +1,84 @@
-# 🎉 Hi there, I'm Abhay! 👋
+<h3 align="center">
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-Welcome to my colorful corner of GitHub! 🌈
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
+</div>
 
----
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
 
-## 🔥 About Me
-- 💻 I'm a passionate **Data Analyst & Developer**  
-- 🌐 Exploring **Python, SQL, Power BI, Azure, and more**  
-- 🎯 I love solving **real-world data problems**  
-- ⚡ Fun fact: I enjoy turning data into **art & insights**
+  ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
----
+</div>
 
-## 🌈 My Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF5733?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpit+Verma!;">
+</h1>
 
-## 📊 GitHub Stats
-![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<h3 align="center">A Passionate Data Engineer from India </h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
----
+<div align="center">
+  
+ ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-## 🚀 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+- 👋 Hi, I’m Arpit Verma
+- 👀 I’m interested in Cycling, Running and Reading Books
+- 🔭 I’m currently working on improving my skills in Data Science with Excel, SQL, PowerBI and Python
+- 🌱 I’m also learning Data Science to become a well-rounded data engineer
+- 💬 Ask me about * Excel, SQL,Power BI and Python*.
 
----
+ </div>
 
-✨ **Fun Section**
-```text
-🌟 Keep Learning
-🚀 Keep Growing
-🎨 Keep Creating
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+### 🛠 My Tech Stack
+- Languages: Python
+- Frameworks: 
+- Databases: SQL
+- Tools: Git, GitHub, 
+
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+### ⚡ My Projects
+- [Dynamic Retail Dashboard](https://github.com/arpitverma90/Dynamic-Retail-Dashboard) - Dynamic Retail Dashboard: An interactive analytics tool for tracking sales, inventory, and customer insights in real time.
+
+
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/arpit-verma-96510524b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href=mailto:"vermaarp2361@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitverma90&show_icons=true&theme=radical" alt="Arpit Verma's GitHub stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitverma90&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;"/>
+</div>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
+
+<h3 align="center">Let's connect and build something amazing together!</h3>
