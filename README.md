@@ -1,75 +1,77 @@
-<!-- 🌈 Animated & Realistic GitHub Profile README -->
+<!-- ✨ Beautiful Animated GitHub Profile for Data Professionals -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Data%20Universe!&fontSize=40&fontAlignY=35&animation=twinkling" />
+</h1>
+
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=500&lines=Data+Analyst;Business+Analyst;Power+BI+Developer;SQL+Expert;Python+Explorer;Machine+Learning+Learner;Turning+Data+into+Insights!;Welcome+to+My+Profile!+🚀" alt="Typing SVG" />
+</div>
 
-# ✨ Hi, I'm **Abhay!** 👋  
-### 💡 *Data Analyst | Power BI Expert | SQL Developer | Azure Enthusiast*
+<div align="center">
+  <img src="https://i.pinimg.com/originals/50/f1/58/50f1580a1de8b5e847d2b2b277f93264.gif" width="400" alt="Animated data visualization"/>
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-49b5-bd3d-70b2b66bf9bb.gif" width="500"/>
-
----
-
-## 🚀 About Me  
-🎯 I love finding insights from data and turning numbers into stories.  
-🌍 Passionate about **Analytics | Visualization | Automation | Cloud**  
-💬 Always exploring **Python, Power BI, SQL, and Azure**  
-⚡ *Fun fact:* I make dashboards look like art pieces 🎨  
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ---
 
-## 🧰 Tech Stack & Tools  
+<h2 align="center">🧠 About Me</h2>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+<div align="center">
+  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</div>
+
+- 👋 Hi, I’m **Abhay**  
+- 💡 Passionate about **Data Analysis | Visualization | Cloud | Automation**  
+- 🧩 Skilled in **Excel, Power BI, SQL, and Python**  
+- 🔭 Currently exploring **Machine Learning** and **Data Engineering** concepts  
+- ⚡ *Fun fact:* I love visualizing stories hidden in data  
 
 ---
 
-## 🌈 GitHub Analytics  
+<h2 align="center">⚙️ Tech Stack & Tools</h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00E7FF&ring=00E7FF&fire=00E7FF" width="48%">
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sqlserver,mysql,excel,powerbi,azure,vscode,github" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="400">
 </p>
 
 ---
 
-## 🪄 Fun Animated Section  
+<h2 align="center">📊 My GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=00E7FF&line=00E7FF&point=FFFFFF&area=true&hide_border=true" width="95%">
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Data+into+Decisions...;Exploring+Power+BI+and+Azure...;Building+Smart+Analytics+Solutions...;Learning+Never+Stops!+🚀)
+🎯 **[Retail Sales Dashboard](https://github.com/YOUR_USERNAME/Retail-Sales-Dashboard)**  
+📈 *An interactive Power BI dashboard for sales, profit, and regional performance.*
 
-<img src="https://user-images.githubusercontent.com/74038190/212750375-3e7f3a5f-2f39-4742-88c8-9d6b1682cce4.gif" width="600"/>
+💾 **[Weather Data Analysis](https://github.com/YOUR_USERNAME/Weather-Data-Analysis)**  
+🌤️ *Analyzing temperature, humidity, and wind data to uncover weather trends.*
 
-</div>
-
----
-
-## 🌐 Connect With Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-
----
-
-## 🎨 Quote of the Day  
-
-> *"Without data, you’re just another person with an opinion."* – W. Edwards Deming  
-
-<img src="https://user-images.githubusercontent.com/74038190/226190002-cd4a5c11-2e7d-4b9c-bb79-9e50f9c3f1d5.gif" width="400"/>
-
----
-
-### 🧩 “Code. Analyze. Visualize. Inspire.” 🚀  
+📊 **[Customer Churn Prediction](https://github.com/YOUR_USERNAME/Customer-Churn-ML)**  
+🤖 *Predicting customer churn using machine learning models.*
 
 </div>
+
+---
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge
