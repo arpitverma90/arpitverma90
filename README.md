@@ -4,7 +4,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Aspiring+Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
 </div>
 
   <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
