@@ -1,75 +1,84 @@
-# Arpit Verma
+\<h3 align="center">
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontAlignY=35&animation=fadeIn)
 
-**Data Analyst & Engineer** | India
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=Data+Analyst;Business+Analyst;SQL+Developer;Exploring+Data+Science;Business+Analysis;Machine+Learning;Python;PowerBI" alt="Typing SVG">
+</div>
 
----
+  <img src="https://github.com/Pravallikamaddi/Pravallikamaddi/raw/main/giphy2.gif" alt="Data Analytics GIF" width="400">
 
-## About
+  ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-Data professional with expertise in analytics, SQL development, and business intelligence. Passionate about turning data into decisions.
+</div>
 
----
 
-## Skills & Tools
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arpit+Verma!;">
+</h1>
 
-| Category | Skills |
-|----------|--------|
-| Languages | Python, SQL, Excel |
-| BI Tools | PowerBI, Tableau |
-| Databases | SQL Server, MySQL, PostgreSQL |
-| Libraries | Pandas, NumPy, Matplotlib, Scikit-learn |
-| Development | Git, GitHub, Jupyter, VS Code |
+<h3 align="center">A Passionate Data Engineer from India </h3>
 
----
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-## Core Competencies
+<div align="center">
+  
+ ## <picture><img src = "https://github.com/ChinmayKaitade/ChinmayKaitade/blob/main/about_me.gif" width = 50px></picture> About Me
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
-- SQL Query Development & Optimization
-- Data Analysis & Visualization
-- Dashboard Development
-- Database Design
-- Python Scripting & Automation
-- Business Intelligence Solutions
-- KPI Development & Tracking
+- 👋 Hi, I’m Arpit Verma
+- 👀 I’m interested in Cycling, Running and Reading Books
+- 🔭 I’m currently working on improving my skills in Data Science with Excel, SQL, PowerBI and Python
+- 🌱 I’m also learning Data Science to become a well-rounded data engineer
+- 💬 Ask me about * Excel, SQL,Power BI and Python*.
 
----
+ </div>
 
-## Featured Project
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-**Dynamic Retail Dashboard**
+### 🛠 My Tech Stack
+- Languages: Python
+- Frameworks: 
+- Databases: SQL
+- Tools: Git, GitHub, 
 
-| Aspect | Details |
-|--------|---------|
-| Description | Real-time analytics platform for sales, inventory, and customer insights |
-| Tools | PowerBI, SQL Server, Excel |
-| Impact | 40% faster reporting, real-time insights |
-| Link | [View Project](https://github.com/arpitverma90/Dynamic-Retail-Dashboard) |
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
----
+### ⚡ My Projects
+- [Dynamic Retail Dashboard](https://github.com/arpitverma90/Dynamic-Retail-Dashboard) - Dynamic Retail Dashboard: An interactive analytics tool for tracking sales, inventory, and customer insights in real time.
 
-## Current Focus
 
-- Developing proficiency in Machine Learning
-- Exploring advanced SQL optimization techniques
-- Building more interactive PowerBI solutions
-- Contributing to open source projects
+ <h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
----
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/arpit-verma-96510524b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href=mailto:"vermaarp2361@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
 
-## Interests
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-Cycling | Running | Reading | Technology | Data Science
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitverma90&show_icons=true&theme=radical" alt="Arpit Verma's GitHub stats" style="width: 49%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitverma90&layout=compact&theme=radical" alt="Top Languages" style="width: 49%;"/>
+</div>
 
----
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+</h3>
 
-## Contact
-
-| Platform | Link |
-|----------|------|
-| Email | vermaarp2361@gmail.com |
-| LinkedIn | linkedin.com/in/arpit-verma-96510524b/ |
-| GitHub | github.com/arpitverma90 |
-
----
-
-Open to collaborations on data projects and consulting opportunities.
+<h3 align="center">Let's connect and build something amazing together!</h3> like this give some things else
